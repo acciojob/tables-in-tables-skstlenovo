@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+table, th, tr, td{
+	text-align: center;
+	border: 1px solid black;
+}
+#td3{
+	color: blue;
+	text-decoration:underline;
+}
+#td4{
+	background:black;
+	color:white;
+}
